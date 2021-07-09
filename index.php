@@ -7,7 +7,7 @@
     ob_start();
 
 
-    require("connexionDB.php");
+//    require("connexionDB.php");
 
 
 
